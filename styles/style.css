@@ -5,6 +5,7 @@
 @import url(header.css);
 @import url(buttons.css);
 @import url(main.css);
+@import url(footer.css);
 
 /* Resete CSS */
 *{
@@ -16,6 +17,13 @@
     font-weight: 300;
     vertical-align: baseline;
     text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background-image: url(../images/bolha-background.png);
+    background-repeat: no-repeat;
+    background-position: left center;
 }
 
 .container {
