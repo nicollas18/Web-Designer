@@ -1,0 +1,17 @@
+@media (max-width: 1150px){
+
+    .container {
+        width: 950px;
+    }
+}
+
+@media (max-width: 1024px){
+
+    .container {
+        width: 850px;
+    }
+
+    .sobre-web-desgin {
+        width: 600px;
+    }
+}
